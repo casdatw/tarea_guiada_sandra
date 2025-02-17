@@ -1,6 +1,10 @@
-li{
-    display: inline-block;
-    color: brown;
-    background-color: blanchedalmond;
-    width: 200px;
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: black;
+    font-family: cursive;
+    color:aliceblue ;
+    font-size: medium;
 }
